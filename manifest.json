@@ -1,0 +1,16 @@
+{
+  "short_name": "SkateMaster",
+  "name": "SkateMaster Pro Training",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/fluency/512/roller-skates.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "orientation": "portrait"
+}

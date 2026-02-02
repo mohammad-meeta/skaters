@@ -1,0 +1,8 @@
+{
+  "name": "SkateMaster Pro",
+  "description": "Professional Freestyle Battle & Classic Skating training tracker with level-based progression, video verification, and rewards system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
